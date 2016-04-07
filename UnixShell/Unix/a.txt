@@ -1,0 +1,9 @@
+.classpath
+.DS_Store
+.git
+.gitignore
+.project
+.settings
+bin
+folder-contents.txt
+src
